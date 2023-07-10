@@ -5,5 +5,5 @@
 - 📫 How to reach me - mail me
 - [Web Development CAKE below (Yep! Its my hardwork)](https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg)
 - 
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="700" height="700">
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="500" height="500">
 
