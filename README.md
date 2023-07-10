@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 - 
-![Image Description](Kgotta-contribute/testrepo/Cake Full Stack Web Development.jpg)
+[Image Description](Kgotta-contribute/testrepo/Cake Full Stack Web Development.jpg)
 
 https://github.com/Kgotta-contribute/testrepo/blob/main/Cake Full Stack Web Development.jpg
