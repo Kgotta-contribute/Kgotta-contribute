@@ -20,11 +20,3 @@
 5. **The Delicious Masterpiece (Full-Stack Web Development)**: By combining the solid foundation of Node.js, the interconnected backend and frontend layers, and captivating frontend design, we create a fully functional web application. Just like a cake brings joy to those who indulges, a developer brings joy and value to users!! 
 
 ---
-
- <span style="color:blue">Base Layer (Node.js)</span>
-
- <span style="color:green">Layering and Connection (Backend & Frontend)</span>
-
- <span style="color:orange">Frosting and Decoration (Frontend)</span>
-
- <span style="color:red">The Delicious Masterpiece (Full-Stack Web Development)</span>
