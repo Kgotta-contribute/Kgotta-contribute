@@ -13,5 +13,5 @@
 
 - ![Image Description](https://github.com/Kgotta-contribute/testrepo/raw/main/CakeFullStackWebdevelopment.jpg)
 
-- ![Image Description](https://raw.githubusercontent.com/Kgotta-contribute/testrepo/main/CakeFullStackWebdevelopment.jpg)
+- [Image Description](https://raw.githubusercontent.com/Kgotta-contribute/testrepo/main/CakeFullStackWebdevelopment.jpg)
 
