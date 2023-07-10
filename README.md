@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me 
-![Image Description](https://github.com/Kgotta-contribute/testrepo/blob/main/Cake Full Stack Web Development.jpg)
+![Image Description](Kgotta-contribute/testrepo/blob/main/Cake Full Stack Web Development.jpg)
 
 https://github.com/Kgotta-contribute/testrepo/blob/main/Cake Full Stack Web Development.jpg
