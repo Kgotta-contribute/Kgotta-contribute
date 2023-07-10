@@ -21,10 +21,10 @@
 
 ---
 
-### <span style="color:blue">Base Layer (Node.js)</span>
+ <span style="color:blue">Base Layer (Node.js)</span>
 
-### <span style="color:green">Layering and Connection (Backend & Frontend)</span>
+ <span style="color:green">Layering and Connection (Backend & Frontend)</span>
 
-### <span style="color:orange">Frosting and Decoration (Frontend)</span>
+ <span style="color:orange">Frosting and Decoration (Frontend)</span>
 
-### <span style="color:red">The Delicious Masterpiece (Full-Stack Web Development)</span>
+ <span style="color:red">The Delicious Masterpiece (Full-Stack Web Development)</span>
