@@ -4,13 +4,9 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 - [Web Development CAKE below (Yep! Its my hardwork)](https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg)
-- 🍰 Now why did I add it 
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="500" height="500">
-- Certainly! Here's a shorter and more concise version:
-
 ---
 
-### Baking a Cake: An Analogy to Full-Stack Web Development 
+### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
 
 1. **Base Layer (Node.js)**: Just as a cake needs a solid foundation, Node.js forms the backbone of full-stack web development. It allows us to handle server-side operations, ensuring the entire system is stable and well-structured.
 
