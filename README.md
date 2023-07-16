@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 - [Web Development CAKE below (Yep! Its my hardwork)](https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg)
-- -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="400" height="400">
+- -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="200" height="200">
 ---
 
 ### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
@@ -18,4 +18,4 @@
 5. **The Delicious Masterpiece (Full-Stack Web Development)**: By combining the solid foundation of Node.js, the interconnected backend and frontend layers, and captivating frontend design, we create a fully functional web application. Just like a cake brings joy to those who indulges, a developer brings joy and value to users!! 
 
 ---
-
+- -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="200" height="200">
