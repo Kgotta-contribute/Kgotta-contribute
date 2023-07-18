@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 ---
-### I would love to guide you to specific repositories if you are here for resume projects :-
+### 💪🏻👩🏻‍💻 I would love to guide you to specific repositories if you are here for Resume Projects :-
 
 [Final Year Projects](https://github.com/Kgotta-contribute/FINAL_YEAR_PROJECT)  <br>
 [Projects on Resume](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME)   <br>
