@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 ---
-I would love to guide you to specific repositories if you are here for resume projects :-
+### I would love to guide you to specific repositories if you are here for resume projects :-
 
-[Repository 1](https://github.com/Kgotta-contribute/FINAL_YEAR_PROJECT)
-[Repository 2](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME)
-[Repository 3](https://github.com/Kgotta-contribute/IBM-dataScience-Coursera)
-[Repository 4](https://github.com/Kgotta-contribute/CollegeProjects)
-[Repository 5](https://github.com/Kgotta-contribute/Leetcode)
+[Final Year Projects](https://github.com/Kgotta-contribute/FINAL_YEAR_PROJECT)  <br>
+[Projects on Resume](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME)   <br>
+[IBM Data Science Courses Learnings](https://github.com/Kgotta-contribute/IBM-dataScience-Coursera)   <br>
+[College Given Projects](https://github.com/Kgotta-contribute/CollegeProjects)   <br>
+[Leetcode](https://github.com/Kgotta-contribute/Leetcode)   <br>
 ---
 ### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
 
