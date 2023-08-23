@@ -8,7 +8,7 @@
 
 [Final Year Projects](https://github.com/Kgotta-contribute/FINAL_YEAR_PROJECT)  <br>
 [Projects on Resume](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME)   <br>
-[IBM Data Science Courses Learnings](https://github.com/Kgotta-contribute/IBM-dataScience-Coursera)   <br>
+[IBM Data Science Coursera Learnings](https://github.com/Kgotta-contribute/IBM-dataScience-Coursera)   <br>
 [College Given Projects](https://github.com/Kgotta-contribute/CollegeProjects)   <br>
 [Leetcode](https://github.com/Kgotta-contribute/Leetcode)   <br>
 ---
