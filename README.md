@@ -28,8 +28,14 @@
 - -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="200px" height="200px">
 ---
 ## 📄CERTIFICATIONS:<br>
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause.jpg?raw=true" alt="Image Description">
+------------------------------
+- ### CODECLAUSE "WEB DEV INTERNSHIP CERTIFICATION"
+- ##### https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause.jpg?raw=true" alt="Image Description" width="2000px" height="3100px">
+- ### IIT ROORKEE & iHUB "ETHICAL HACKING & CYBERSECURITY"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/BD743.jpg?raw=true" alt="Image Description">
+- ### COURSERA "IBM DATA SCIENCE"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Coursera%20Certificate%20ZMS5ET9JPW93.jpg?raw=true" alt="Image Description">
+- ### NPTEL "GETTING STARTED WITH COMPETETIVE PROGRAMMING"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/NPTEL.jpg?raw=true" alt="Image Description">
 
