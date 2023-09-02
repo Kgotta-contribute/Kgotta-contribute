@@ -31,7 +31,7 @@
 ------------------------------
 - ### CODECLAUSE "WEB DEV INTERNSHIP CERTIFICATION"
 - ##### https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause.jpg?raw=true" alt="Image Description" width="800px" height="1400px">
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause.jpg?raw=true" alt="Image Description" width="600px" height="1000px">
 - ### IIT ROORKEE & iHUB "ETHICAL HACKING & CYBERSECURITY"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/BD743.jpg?raw=true" alt="Image Description">
 - ### COURSERA "IBM DATA SCIENCE"
