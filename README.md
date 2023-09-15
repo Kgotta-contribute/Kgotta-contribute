@@ -51,7 +51,7 @@
             <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/dN3vbeAHQ1r?utm_source=embed&utm_medium=embed&utm_campaign=watch">
                 <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
             </a>
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/HeartDisease_ML_Assignment.mp4?raw=true" alt="ML ASSIGNMENT Presentation">
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/HeartDisease_ML_Assignment1.mp4?raw=true" alt="ML ASSIGNMENT Presentation">
 
 
 
