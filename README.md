@@ -40,7 +40,7 @@
 - ##### https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause5.jpg?raw=true" alt="WEB DEV INTERNSHIP CERTIFICATION" width="600px" height="900px">
 - ### IIT ROORKEE & iHUB "ETHICAL HACKING & CYBERSECURITY"
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/BD743.jpg?raw=true" alt="IIT ROORKEE & iHUB "ETHICAL HACKING & CYBERSECURITY">
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/BD743.jpg?raw=true" alt="IIT ROORKEE & iHUB ETHICAL HACKING & CYBERSECURITY">
 - ### COURSERA "IBM DATA SCIENCE"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Coursera%20Certificate%20ZMS5ET9JPW93.jpg?raw=true" alt="IBM DATA SCIENCE">
 - ### NPTEL "GETTING STARTED WITH COMPETETIVE PROGRAMMING"
@@ -52,6 +52,6 @@
                 <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
             </a>
 
-- hello
+
 
 
