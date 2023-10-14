@@ -53,7 +53,7 @@
             </a>
 
 - ### BHARATINTERN "APP DEVELOPMENT INTERNSHIP"
--<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Chhavi_AppDev.jpg?raw=true" alt="Bharat Intern">
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Chhavi_AppDev.png?raw=true" alt="BharatIntern">
 
 
 
