@@ -12,7 +12,7 @@
 [College Given Projects](https://github.com/Kgotta-contribute/CollegeProjects)   <br>
 [Leetcode](https://github.com/Kgotta-contribute/Leetcode)   <br>
 ---
-### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
+<!-- ### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
 
 1. **Base Layer (Node.js)**: Just as a cake needs a solid foundation, Node.js forms the backbone of full-stack web development.
 
@@ -29,10 +29,11 @@
 
 5. **The Delicious Masterpiece (Full-Stack Web Development)**: By combining the solid foundation of Node.js, the interconnected backend and frontend layers, and captivating frontend design, we create a fully functional web application. Just like a cake brings joy to those who indulges, a developer brings joy and value to users!!  -->
 
----
+-->
+<!-- 
 - [Web Development CAKE below (Yep! I made it)](https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg)
   <br>
-- -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="200px" height="200px">
+- -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg" alt="Image Description" width="200px" height="200px">  -->
 ---
 ## 📄CERTIFICATIONS:<br>
 ------------------------------
