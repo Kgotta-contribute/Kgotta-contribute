@@ -56,7 +56,3 @@
 - ### BHARATINTERN "APP DEVELOPMENT INTERNSHIP"
 - ##### https://github.com/Kgotta-contribute/BharatInternship/
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Chhavi_AppDev.png?raw=true" alt="BharatIntern">
-
-
-
-
