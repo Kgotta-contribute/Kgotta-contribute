@@ -46,6 +46,8 @@
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Coursera%20Certificate%20ZMS5ET9JPW93.jpg?raw=true" alt="IBM DATA SCIENCE">
 - ### NPTEL "GETTING STARTED WITH COMPETETIVE PROGRAMMING"
 -<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/NPTEL.jpg?raw=true" alt="GETTING STARTED WITH COMPETETIVE PROGRAMMING">
+- ### NPTEL "ETHICAL HACKING"
+-<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/EthicalHackingNPTEL.jpg?raw=true" alt="ETHICAL HACKING">
 - ### "WHEN WE SPOKE FOR OUR ASSIGNMENTS"
 - Click the button below to watch in HD
 <div style="position:relative;width:fit-content;height:fit-content;">
