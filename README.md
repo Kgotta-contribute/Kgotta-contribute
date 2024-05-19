@@ -14,7 +14,8 @@
 
 ---
 [Cloud Computing On Medium](https://medium.com/p/c877dcc2747e)
----
+
+
 ### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
 
 1. **Base Layer (Node.js)**: Just as a cake needs a solid foundation, Node.js forms the backbone of full-stack web development.
