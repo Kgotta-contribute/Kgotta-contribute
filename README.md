@@ -11,6 +11,9 @@
 [IBM Data Science Coursera Learnings](https://github.com/Kgotta-contribute/IBM-dataScience-Coursera)   <br>
 [College Given Projects](https://github.com/Kgotta-contribute/CollegeProjects)   <br>
 [Leetcode](https://github.com/Kgotta-contribute/Leetcode)   <br>
+
+---
+[Cloud Computing On Medium](https://medium.com/p/c877dcc2747e)
 ---
 ### 🍰 Baking a Cake: An Analogy to Full-Stack Web Development 🍰
 
