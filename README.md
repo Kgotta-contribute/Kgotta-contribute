@@ -94,6 +94,31 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kgotta-contribute&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kgotta-contribute&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kgotta-contribute&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgotta-contribute&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kgotta-contribute&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kgotta-contribute&theme=tokyonight&margin-w=15&no-frame=true" width="100%" />
+</p>
+
+
+
 ### 💪🏻 Repository guide
 
 | Purpose | Repo |
