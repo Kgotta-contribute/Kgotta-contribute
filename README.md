@@ -28,16 +28,14 @@
 ## 🚀 About Me
 
 - 💻 Full Stack Developer passionate about building scalable, real-world applications
-- 🌱 Currently diving deeper into **System Design**, **Distributed Systems** & **Backend Engineering**
+- 🌱 Currently diving deeper into **System Design** & **Backend Engineering**
 - 🤖 Exploring **AI Applications** using LangChain & HuggingFace
-- 🎂 I explain Full Stack Dev with a cake analogy — because why not!
-- 📚 Believe in learning by building, every single day
+- 📚 Believe in learning by building
 
 ---
 
 ## 🔥 Currently Working On
 
-- 🚀 Spring Boot Microservices & REST APIs
 - 🤖 AI-powered applications using LangChain & HuggingFace
 - ⚙️ System Design concepts & patterns
 - 📈 DSA & Competitive Programming
@@ -64,6 +62,8 @@
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -77,9 +77,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
 
 ## ⭐ Featured Projects
 
