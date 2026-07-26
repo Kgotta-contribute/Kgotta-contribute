@@ -94,6 +94,7 @@
 
 ---
 
+<!--
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -117,6 +118,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Kgotta-contribute&theme=tokyonight&margin-w=15&no-frame=true" width="100%" />
 </p>
 
+--- 
+
+-->
 
 
 ### 💪🏻 Repository guide
