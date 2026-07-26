@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Chhavi (Kgotta-contribute) 👋</h1>
+<h1 align="center">Hi there! I'm Chhavi Verma (Kgotta-contribute) 👋</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&label=Profile+Views&color=blueviolet" />
