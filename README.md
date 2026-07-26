@@ -35,23 +35,6 @@
 
 ---
 
-### 🍰 Baking a Cake: An Analogy to Full-Stack Web Dev
-
-| Layer | Ingredient | Dev equivalent |
-|---|---|---|
-| Foundation | Base cake | Node.js backend |
-| Hidden layers | Sugar syrup between tiers | APIs & databases |
-| Visible layers | Frosting | React + JavaScript UI |
-| Final masterpiece | Decorated cake | Your finished web app 🎂 |
-
-<p align="center">
-  <img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg?raw=true" alt="Full Stack Web Development Cake" width="300px" />
-  <br>
-  <i>Yep! I made this 🎂</i>
-</p>
-
----
-
 ### 💪🏻 Repository guide
 
 | Purpose | Repo |
