@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - mail me
 ---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&label=Profile+Views&color=blueviolet)
+
+
 ### 💪🏻👩🏻‍💻 I would love to guide you to specific repositories if you are here for Resume Projects :-
 
 [Final Year Project](https://github.com/Kgotta-contribute/FINAL_YEAR_PROJECT)  <br>
