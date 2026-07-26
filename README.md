@@ -44,6 +44,12 @@
 | Visible layers | Frosting | React + JavaScript UI |
 | Final masterpiece | Decorated cake | Your finished web app 🎂 |
 
+<p align="center">
+  <img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CakeFullStackWebDevelopment.jpg?raw=true" alt="Full Stack Web Development Cake" width="300px" />
+  <br>
+  <i>Yep! I made this 🎂</i>
+</p>
+
 ---
 
 ### 💪🏻 Repository guide
@@ -60,14 +66,45 @@
 
 ### 📄 Certifications
 
-- 🏅 **CodeClause** — Web Dev Internship
-- 🏅 **Udemy** — Ethical Hacking & Pen Testing with Metasploit
-- 🏅 **IIT Roorkee & iHUB** — Ethical Hacking & Cybersecurity
-- 🏅 **Coursera** — IBM Data Science Professional
-- 🏅 **NPTEL** — Getting Started with Competitive Programming
+---
+
+#### 🏅 CodeClause — Web Dev Internship
+🔗 [View Project](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/)
+
+<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/CodeClause5.jpg?raw=true" alt="CodeClause Web Dev Internship Certification" width="500px" />
 
 ---
 
-<p align="center">
-  <i>⭐ Star my repos if you find them useful — it helps a lot!</i>
-</p>
+#### 🏅 Udemy — Ethical Hacking & Pen Testing with Metasploit
+
+<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/udemyCrt.jpg?raw=true" alt="Udemy Ethical Hacking Certification" width="500px" />
+
+---
+
+#### 🏅 IIT Roorkee & iHUB — Ethical Hacking & Cybersecurity
+
+<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/BD743.jpg?raw=true" alt="IIT Roorkee Ethical Hacking Certification" width="500px" />
+
+---
+
+#### 🏅 Coursera — IBM Data Science Professional
+
+<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/Coursera%20Certificate%20ZMS5ET9JPW93.jpg?raw=true" alt="IBM Data Science Certification" width="500px" />
+
+---
+
+#### 🏅 NPTEL — Getting Started with Competitive Programming
+
+<img src="https://github.com/Kgotta-contribute/testrepo/blob/main/NPTEL.jpg?raw=true" alt="NPTEL Competitive Programming Certification" width="500px" />
+
+---
+
+#### 🎤 When We Spoke for Our Assignments
+▶️ [Watch in HD on Clipchamp](https://clipchamp.com/watch/dN3vbeAHQ1r?utm_source=embed&utm_medium=embed&utm_campaign=watch)
+
+<a href="https://clipchamp.com/watch/dN3vbeAHQ1r?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+  <img src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" height="22" />
+</a>
+
+---
+
