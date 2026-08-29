@@ -88,8 +88,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kgotta-contribute&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kgotta-contribute&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kgotta-contribute&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Kgotta-contribute&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -108,10 +108,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgotta-contribute&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kgotta-contribute&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -178,4 +174,3 @@
 </a>
 
 ---
-
