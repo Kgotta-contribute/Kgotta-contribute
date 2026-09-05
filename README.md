@@ -1,19 +1,29 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=200&section=header&text=Hi%20there!%20I'm%20Chhavi%20Verma%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Kgotta-contribute%20%7C%20Full%20Stack%20Developer%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">Hi there! I'm Chhavi Verma (Kgotta-contribute) 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chhavi555111/">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&label=Profile+Views&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Kgotta-contribute?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+
+<!--
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/DidYouCode5/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Kgotta-contribute">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&style=for-the-badge&label=Profile+Views&color=blueviolet" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" />
+  <a href="YOUR_RESUME_URL">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
+-->
+
 
 ---
 
