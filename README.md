@@ -1,7 +1,5 @@
-<h1 align="center">Hi there! I'm Chhavi Verma 👋</h1>
-
 <p align="center">
-  <strong>Full Stack Developer | AI & LLM Enthusiast</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20there!%20I%20am%20Chhavi%20Verma%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20LLM%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
