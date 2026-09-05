@@ -1,9 +1,7 @@
+<h1 align="center">Hi there! I'm Chhavi Verma 👋</h1>
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kgotta-contribute/testrepo/main/chhavi-profile-header-no-collab.svg"
-    alt="Chhavi Verma — Full Stack Developer | AI & LLM Enthusiast"
-    width="100%"
-  />
+  <strong>Full Stack Developer | AI & LLM Enthusiast</strong>
 </p>
 
 <p align="center">
