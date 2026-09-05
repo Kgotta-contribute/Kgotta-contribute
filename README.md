@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Kgotta-contribute&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
