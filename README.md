@@ -1,16 +1,18 @@
-<h1 align="center">Hi there! I'm Chhavi Verma (Kgotta-contribute) 👋</h1>
+<h1 align="center">Hi there! I'm Chhavi Verma 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer | AI & LLM Enthusiast</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chhavi555111/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/DidYouCode5/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/Kgotta-contribute">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&style=for-the-badge&label=Profile+Views&color=blueviolet" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kgotta-contribute.Kgotta-contribute&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
